@@ -2,5 +2,5 @@
     "appSecret": "a1207070af2f71b09a60ea59c53e13a1",
     "pageAccessToken": "EAAaA8mQfoyUBAK8QDOeZBntAKsZCOtimzXXMACG8X5mR12XJ0Dnp3hSfA3PZAY6HzIC3qJUr27OJZAKuXhxoVDdGmVsqEDNUt78HtfVaZC02oFSceOLLirZCdW0ZCAJMHos2pbX7ubq6Gn0pbP02eNtppW8zfZCrHG1Gcsdt9fSHJgZDZD",
     "validationToken": "just_do_it",
-    "serverURL": "https://itineray-rec.herokuapp.com/webhook"
+    "serverURL": "https://itineraryrec2.herokuapp.com/webhook"
 }
