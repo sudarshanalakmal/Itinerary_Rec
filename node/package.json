@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fbsamples/messenger-platform-samples.git"
+    "url": "https://github.com/sudarshanalakmal/Itinerary_Rec.git"
   },
-  "author": "Facebook",
+  "author": "Sachira Sudarshana",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
